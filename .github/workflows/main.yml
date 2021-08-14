@@ -2,5 +2,4 @@ jobs:
 build:
 name:Hello world action
 
-with:
 My_NAME:"Mona"
