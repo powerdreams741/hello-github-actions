@@ -2,4 +2,4 @@ jobs:
 build:
 name:Hello world action
 
-My_NAME:"Mona"
+My NAME:"Mona"
