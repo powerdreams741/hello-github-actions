@@ -1,7 +1,7 @@
 jobs:
 build:
 name:Hello world action
-runs-on:Ubuntu 
+runs-on:Debian
 
 steps:
 -uses:actions/checkout@v1
