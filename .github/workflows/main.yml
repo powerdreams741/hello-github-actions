@@ -2,7 +2,7 @@ jobs:
 build:
 name:Hello world action
 
--uses:actions/checkout@v1
+-uses:actions /checkout @v1
 -uses:./actions-a
 with:
 My_NAME:"Mona"
