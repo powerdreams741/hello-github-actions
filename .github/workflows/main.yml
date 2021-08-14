@@ -1,7 +1,7 @@
 jobs:
 build:
 name:Hello world action
-runs-on:Ubuntu latest
+runs-on:Ubuntu 
 
 steps:
 -uses:actions/checkout@v1
